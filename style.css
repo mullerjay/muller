@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-    width: 100%;
+    width: 80% ;
 }
 
 h1 {
@@ -20,16 +20,4 @@ p {
 
 em strong {
     color: rgb(255, 17, 0);
-}
-.itens {
-	font-style: italic
-}
-
-.beneficios {
-	background: #FFFFFF;
-	padding: 20px;
-}
-
-.imagembeneficios {
-	width: 50%;
 }
