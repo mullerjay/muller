@@ -3,9 +3,10 @@ body {
 }
 
 #banner {
-    width: 95%;
-    height: 597px;
+    height: 590px;
+    text-align: center;
 }
+
 
 h1 {
     text-align: center
